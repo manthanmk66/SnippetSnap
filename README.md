@@ -1,13 +1,4 @@
-# [Code Screenshot](https://code-ss.pages.dev/)
 
-A fully functional Ray.so clone (a powerful tool for sharing code snippets) with additional features. Share beautiful screenshots of your code on your social media platforms.
-
-**Project live at:** [https://code-ss.pages.dev/](https://code-ss.pages.dev/)
-
-**Complete tutorial/walkthrough available on my Youtube channel:**
-[![Thumbnail](https://i.ibb.co/XJMbhLG/code-ss-thumbnail.png)](https://youtu.be/F0AfwegcXBY)
-
----
 
 ## Features
 
@@ -35,19 +26,7 @@ A fully functional Ray.so clone (a powerful tool for sharing code snippets) with
 
 ---
 
-## Build steps
 
-1. Clone this repo
-
-```bash
-git clone https://github.com/nimone/code-screenshot && cd code-screenshot
-```
-
-2. Install project dependecies
-
-```bash
-npm install
-```
 
 3. Build the project and start a local server
 
