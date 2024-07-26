@@ -1,5 +1,5 @@
 
-
+#SnippetSnap
 ## Features
 
 - 10+ elegant themes (light + dark theme included).
@@ -28,8 +28,3 @@
 
 
 
-3. Build the project and start a local server
-
-```bash
-npm run build && npm run serve
-```
