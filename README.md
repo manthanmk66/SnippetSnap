@@ -1,5 +1,6 @@
 
 # SnippetSnap
+- SnippetSnap is a powerful web app that makes it easy to transform your code into stunning, shareable images. Experience the magic and create beautiful visuals from your code snippets with ease.
 ## Features
 
 - 10+ elegant themes (light + dark theme included).
