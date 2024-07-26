@@ -1,5 +1,5 @@
 
-#SnippetSnap
+# SnippetSnap
 ## Features
 
 - 10+ elegant themes (light + dark theme included).
